@@ -1,0 +1,3499 @@
+{
+	"L1": [{
+			"code": "A",
+			"label": "Agriculture, Forestry and Fishing",
+			"L2": [{
+					"name": "Agriculture",
+					"label": "Crop and animal production, hunting and related service activities",
+					"Sic": [{
+							"code": "01110",
+							"label": "Growing cereal(nonrice)/pod crop/oilseed"
+						},
+						{
+							"code": "01120",
+							"label": "Growing of rice"
+						},
+						{
+							"code": "01130",
+							"label": "Growing of veg, melons, roots and tubers"
+						},
+						{
+							"code": "01140",
+							"label": "Growing of sugar cane"
+						},
+						{
+							"code": "01150",
+							"label": "Growing of tobacco"
+						},
+						{
+							"code": "01160",
+							"label": "Growing of fibre crops"
+						},
+						{
+							"code": "01190",
+							"label": "Growing of other non-perennial crops"
+						},
+						{
+							"code": "01210",
+							"label": "Growing of grapes"
+						},
+						{
+							"code": "01220",
+							"label": "Growing of tropical and subtropical fruits"
+						},
+						{
+							"code": "01230",
+							"label": "Growing of citrus fruits"
+						},
+						{
+							"code": "01240",
+							"label": "Growing of pome fruits and stone fruits"
+						},
+						{
+							"code": "01250",
+							"label": "Growing of other tree and bush fruits or nuts"
+						},
+						{
+							"code": "01260",
+							"label": "Growing of oleaginous fruits"
+						},
+						{
+							"code": "01270",
+							"label": "Growing of beverage crops"
+						},
+						{
+							"code": "01280",
+							"label": "Growing spices, aromatic and drug crops"
+						},
+						{
+							"code": "01290",
+							"label": "Growing of other perennial crops"
+						},
+						{
+							"code": "01300",
+							"label": "Plant propagation"
+						},
+						{
+							"code": "01410",
+							"label": "Raising of dairy cattle"
+						},
+						{
+							"code": "01420",
+							"label": "Raising of other cattle and buffaloes"
+						},
+						{
+							"code": "01421",
+							"label": "Farming of cattle in less favoured areas"
+						},
+						{
+							"code": "01422",
+							"label": "Farming mixed beef & dairy cattle"
+						},
+						{
+							"code": "01430",
+							"label": "Raising of horses and other equines"
+						},
+						{
+							"code": "01440",
+							"label": "Raising of camels and camelids"
+						},
+						{
+							"code": "01450",
+							"label": "Raising of sheep and goats"
+						},
+						{
+							"code": "01451",
+							"label": "Farm sheep and goat - less favoured area"
+						},
+						{
+							"code": "01460",
+							"label": "Raising of swine/pigs"
+						},
+						{
+							"code": "01470",
+							"label": "Raising of poultry"
+						},
+						{
+							"code": "01471",
+							"label": "Farming poultry for eggs"
+						},
+						{
+							"code": "01490",
+							"label": "Raising of other animals"
+						},
+						{
+							"code": "01500",
+							"label": "Mixed farming"
+						},
+						{
+							"code": "01610",
+							"label": "Support activities for crop production"
+						},
+						{
+							"code": "01621",
+							"label": "Farm animal boarding and care"
+						},
+						{
+							"code": "01629",
+							"label": "Animal production support(not farm help)"
+						},
+						{
+							"code": "01630",
+							"label": "Post-harvest crop activities"
+						},
+						{
+							"code": "01640",
+							"label": "Seed processing for propagation"
+						},
+						{
+							"code": "01700",
+							"label": "Hunter, trapper or related activities"
+						}
+					]
+				},
+				{
+					"name": "Forestry",
+					"label": "Forestry and logging",
+					"Sic": [{
+							"code": "02100",
+							"label": "Silviculture and other forestry activities"
+						},
+						{
+							"code": "02200",
+							"label": "Logging"
+						},
+						{
+							"code": "02300",
+							"label": "Gathering of wild growing non-wood items"
+						},
+						{
+							"code": "02400",
+							"label": "Support services to forestry"
+						}
+					]
+				},
+				{
+					"name": "Fishing",
+					"label": "Fishing and aquaculture",
+					"Sic": [{
+							"code": "03110",
+							"label": "Marine fishing"
+						},
+						{
+							"code": "03120",
+							"label": "Freshwater fishing"
+						},
+						{
+							"code": "03210",
+							"label": "Marine aquaculture"
+						},
+						{
+							"code": "03220",
+							"label": "Freshwater aquaculture"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "B",
+			"label": "Mining and Quarrying",
+			"L2": [{
+					"name": "coal",
+					"label": "Mining of coal and lignite",
+					"Sic": [{
+							"code": "05101",
+							"label": "Mining hard coal from underground mines"
+						},
+						{
+							"code": "05102",
+							"label": "Mining coal from open cast coal working"
+						},
+						{
+							"code": "05200",
+							"label": "Mining of lignite"
+						}
+					]
+				},
+				{
+					"name": "petrol",
+					"label": "Extraction of crude petroleum and natural gas",
+					"Sic": [{
+							"code": "06100",
+							"label": "Extraction of crude petroleum"
+						},
+						{
+							"code": "06200",
+							"label": "Extraction of natural gas"
+						}
+					]
+				},
+				{
+					"name": "metals",
+					"label": "Mining of metal ores",
+					"Sic": [{
+							"code": "07100",
+							"label": "Mining of iron ores"
+						},
+						{
+							"code": "07210",
+							"label": "Mining of uranium and thorium ores"
+						},
+						{
+							"code": "07290",
+							"label": "Mining of other non-ferrous metal ores"
+						}
+					]
+				},
+				{
+					"name": "other",
+					"label": "Other mining and quarrying",
+					"Sic": [{
+							"code": "08110",
+							"label": "Quarrying ornamental/building stone etc"
+						},
+						{
+							"code": "08120",
+							"label": "Ops gravel/sand pits;mining clay/kaolin"
+						},
+						{
+							"code": "08910",
+							"label": "Mining of chemical and fertiliser mineral"
+						},
+						{
+							"code": "08920",
+							"label": "Extraction of peat"
+						},
+						{
+							"code": "08930",
+							"label": "Extraction of salt"
+						},
+						{
+							"code": "08990",
+							"label": "Other mining and quarrying n.e.c."
+						}
+					]
+				},
+				{
+					"name": "support",
+					"label": "Mining support service activities",
+					"Sic": [{
+							"code": "09100",
+							"label": "Support activity petrol/gas extraction"
+						},
+						{
+							"code": "09900",
+							"label": "Support activity for other mines quarry"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "C",
+			"label": "Manufacturing",
+			"L2": [{
+					"name": "food",
+					"label": "Manufacture of food products",
+					"Sic": [{
+							"code": "10110",
+							"label": "Processing and preserving of meat"
+						},
+						{
+							"code": "10120",
+							"label": "Processing or preserving of poultry meat"
+						},
+						{
+							"code": "10130",
+							"label": "Production of meat products"
+						},
+						{
+							"code": "10200",
+							"label": "Processing of fish, crustacean, molluscs"
+						},
+						{
+							"code": "10310",
+							"label": "Processing and preserving of potatoes"
+						},
+						{
+							"code": "10320",
+							"label": "Manufacture of fruit and vegetable juice"
+						},
+						{
+							"code": "10390",
+							"label": "Other process/preserving of fruit & veg"
+						},
+						{
+							"code": "10410",
+							"label": "Manufacture of oils and fats"
+						},
+						{
+							"code": "10420",
+							"label": "Manufac margarine and similar edible fat"
+						},
+						{
+							"code": "10511",
+							"label": "Liquid milk and cream production"
+						},
+						{
+							"code": "10512",
+							"label": "Butter and cheese production"
+						},
+						{
+							"code": "10519",
+							"label": "Manufac milk products (not milk/cheese)"
+						},
+						{
+							"code": "10520",
+							"label": "Manufacture of ice cream"
+						},
+						{
+							"code": "10611",
+							"label": "Grain milling"
+						},
+						{
+							"code": "10612",
+							"label": "Manufac b'fast cereals/cereal-based food"
+						},
+						{
+							"code": "10620",
+							"label": "Manufac of starches and starch products"
+						},
+						{
+							"code": "10710",
+							"label": "Manufac bread; fresh pastry goods/cakes"
+						},
+						{
+							"code": "10720",
+							"label": "Manufac rusks/biscuits/pastry goods/cake"
+						},
+						{
+							"code": "10730",
+							"label": "Manufac macaroni/noodles/couscous etc"
+						},
+						{
+							"code": "10810",
+							"label": "Manufacture of sugar"
+						},
+						{
+							"code": "10821",
+							"label": "Manufac cocoa/chocolate confectionery"
+						},
+						{
+							"code": "10822",
+							"label": "Manufacture of sugar confectionery"
+						},
+						{
+							"code": "10831",
+							"label": "Tea processing"
+						},
+						{
+							"code": "10832",
+							"label": "Coffee production and coffee substitutes"
+						},
+						{
+							"code": "10840",
+							"label": "Manufacture of condiments and seasonings"
+						},
+						{
+							"code": "10850",
+							"label": "Manufacture of prepared meals and dishes"
+						},
+						{
+							"code": "10860",
+							"label": "Manufac homogenised/dietetic food stuffs"
+						},
+						{
+							"code": "10890",
+							"label": "Manufac of other food products n.e.c."
+						},
+						{
+							"code": "10910",
+							"label": "Manufac prepared feeds for farm animals"
+						},
+						{
+							"code": "10920",
+							"label": "Manufacture of prepared pet foods"
+						}
+					]
+				},
+				{
+					"name": "beverages",
+					"label": "Manufacture of beverages",
+					"Sic": [{
+							"code": "11010",
+							"label": "Distilling and blending of spirits"
+						},
+						{
+							"code": "11020",
+							"label": "Manufacture of wine from grape"
+						},
+						{
+							"code": "11030",
+							"label": "Manufac of cider and other fruit wines"
+						},
+						{
+							"code": "11040",
+							"label": "Manufac other nondistilld fermentd drink"
+						},
+						{
+							"code": "11050",
+							"label": "Manufacture of beer"
+						},
+						{
+							"code": "11060",
+							"label": "Manufacture of malt"
+						},
+						{
+							"code": "11070",
+							"label": "Manufac soft drinks/mineral waters"
+						}
+					]
+				},
+				{
+					"name": "tobacco",
+					"label": "Manufacture of tobacco products",
+					"Sic": [{
+						"code": "12000",
+						"label": "Manufacture of tobacco products"
+					}]
+				},
+				{
+					"name": "textiles",
+					"label": "Manufacture of textiles",
+					"Sic": [{
+							"code": "13100",
+							"label": "Preparing and spinning of textile fibre"
+						},
+						{
+							"code": "13200",
+							"label": "Weaving of textiles"
+						},
+						{
+							"code": "13300",
+							"label": "Finishing of textiles"
+						},
+						{
+							"code": "13910",
+							"label": "Manufac of knitted and crocheted fabrics"
+						},
+						{
+							"code": "13921",
+							"label": "Manufacture of soft furnishings"
+						},
+						{
+							"code": "13922",
+							"label": "Manufacture of canvas goods, sacks etc."
+						},
+						{
+							"code": "13923",
+							"label": "Manufac h'hold textile not soft furnish"
+						},
+						{
+							"code": "13931",
+							"label": "Manufac woven or tufted carpets and rugs"
+						},
+						{
+							"code": "13939",
+							"label": "Manufac carpet/rug (not woven or tufted)"
+						},
+						{
+							"code": "13940",
+							"label": "Manufac cordage, rope, twine and netting"
+						},
+						{
+							"code": "13950",
+							"label": "Manufac non-wovens, except apparel"
+						},
+						{
+							"code": "13960",
+							"label": "Manufac other technical/industrl textile"
+						},
+						{
+							"code": "13990",
+							"label": "Manufacture of other textiles n.e.c."
+						}
+					]
+				},
+				{
+					"name": "apparel",
+					"label": "Manufacture of wearing apparel",
+					"Sic": [{
+							"code": "14110",
+							"label": "Manufacture of leather clothes"
+						},
+						{
+							"code": "14120",
+							"label": "Manufacture of workwear"
+						},
+						{
+							"code": "14131",
+							"label": "Manufac men's outwear(not leather/work)"
+						},
+						{
+							"code": "14132",
+							"label": "Manufac womens outwear(not leatherwear)"
+						},
+						{
+							"code": "14141",
+							"label": "Manufacture of men's underwear"
+						},
+						{
+							"code": "14142",
+							"label": "Manufacture of women's underwear"
+						},
+						{
+							"code": "14190",
+							"label": "Manufac other wearing apparel/accessory"
+						},
+						{
+							"code": "14200",
+							"label": "Manufacture of articles of fur"
+						},
+						{
+							"code": "14310",
+							"label": "Manufac of knitted and crocheted hosiery"
+						},
+						{
+							"code": "14390",
+							"label": "Manufac knitted and crocheted apparel"
+						}
+					]
+				},
+				{
+					"name": "leather",
+					"label": "Manufacture of leather and related products",
+					"Sic": [{
+							"code": "15110",
+							"label": "Leather/fur; tanning/dressing/dyeing"
+						},
+						{
+							"code": "15120",
+							"label": "Manufac luggage/handbag/saddlery/harness"
+						},
+						{
+							"code": "15200",
+							"label": "Manufacture of footwear"
+						}
+					]
+				},
+				{
+					"name": "wood",
+					"label": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",
+					"Sic": [{
+							"code": "16100",
+							"label": "Sawmilling and planing of wood"
+						},
+						{
+							"code": "16210",
+							"label": "Manufac veneer sheets/wood-based panels"
+						},
+						{
+							"code": "16220",
+							"label": "Manufacture of assembled parquet floors"
+						},
+						{
+							"code": "16230",
+							"label": "Manufac other builders' carpentry etc"
+						},
+						{
+							"code": "16240",
+							"label": "Manufacture of wooden containers"
+						},
+						{
+							"code": "16290",
+							"label": "Manufac other product of wood/cork/straw"
+						}
+					]
+				},
+				{
+					"name": "paper",
+					"label": "Manufacture of paper and paper products",
+					"Sic": [{
+							"code": "17110",
+							"label": "Manufacture of pulp"
+						},
+						{
+							"code": "17120",
+							"label": "Manufacture of paper and paperboard"
+						},
+						{
+							"code": "17211",
+							"label": "Manufac ribbed paper;paper sacks/bags"
+						},
+						{
+							"code": "17219",
+							"label": "Manufac paper containers not sacks/bags"
+						},
+						{
+							"code": "17220",
+							"label": "Manufac household and sanitary goods"
+						},
+						{
+							"code": "17230",
+							"label": "Manufacture of paper stationery"
+						},
+						{
+							"code": "17240",
+							"label": "Manufacture of wallpaper"
+						},
+						{
+							"code": "17290",
+							"label": "Manufac other items of paper/paperboard"
+						}
+					]
+				},
+				{
+					"name": "media",
+					"label": "Printing and reproduction of recorded media",
+					"Sic": [{
+							"code": "18110",
+							"label": "Printing of newspapers"
+						},
+						{
+							"code": "18121",
+							"label": "Manufacture of printed labels"
+						},
+						{
+							"code": "18129",
+							"label": "Printing (not newspapers/labels) n.e.c."
+						},
+						{
+							"code": "18130",
+							"label": "Pre-press and pre-media services"
+						},
+						{
+							"code": "18140",
+							"label": "Binding and related services"
+						},
+						{
+							"code": "18201",
+							"label": "Reproduction of sound recording"
+						},
+						{
+							"code": "18202",
+							"label": "Reproduction of video recording"
+						},
+						{
+							"code": "18203",
+							"label": "Reproduction of computer media"
+						}
+					]
+				},
+				{
+					"name": "coke",
+					"label": "Manufacture of coke and refined petroleum products",
+					"Sic": [{
+							"code": "19100",
+							"label": "Manufacture of coke oven products"
+						},
+						{
+							"code": "19201",
+							"label": "Mineral oil refining"
+						},
+						{
+							"code": "19209",
+							"label": "Other treatment of petroleum products"
+						}
+					]
+				},
+				{
+					"name": "chemicals",
+					"label": "Manufacture of chemicals and chemical products",
+					"Sic": [{
+							"code": "20110",
+							"label": "Manufacture of industrial gases"
+						},
+						{
+							"code": "20120",
+							"label": "Manufacture of dyes and pigments"
+						},
+						{
+							"code": "20130",
+							"label": "Manufac other inorganic basic chemicals"
+						},
+						{
+							"code": "20140",
+							"label": "Manufac of other organic basic chemicals"
+						},
+						{
+							"code": "20150",
+							"label": "Manufac fertiliser or nitrogen compounds"
+						},
+						{
+							"code": "20160",
+							"label": "Manufacture of plastics in primary forms"
+						},
+						{
+							"code": "20170",
+							"label": "Manufac synthetic rubber in primary form"
+						},
+						{
+							"code": "20200",
+							"label": "Manufac pesticide/other agrochem product"
+						},
+						{
+							"code": "20301",
+							"label": "Manufac paint/varnishes/mastics/sealants"
+						},
+						{
+							"code": "20302",
+							"label": "Manufacture of printing ink"
+						},
+						{
+							"code": "20411",
+							"label": "Manufacture of soap and detergents"
+						},
+						{
+							"code": "20412",
+							"label": "Manufac cleaning/polishing preparations"
+						},
+						{
+							"code": "20420",
+							"label": "Manufac perfumes and toilet preparations"
+						},
+						{
+							"code": "20510",
+							"label": "Manufacture of explosives"
+						},
+						{
+							"code": "20520",
+							"label": "Manufacture of glues"
+						},
+						{
+							"code": "20530",
+							"label": "Manufacture of essential oils"
+						},
+						{
+							"code": "20590",
+							"label": "Manufac of other chemical product n.e.c."
+						},
+						{
+							"code": "20600",
+							"label": "Manufacture of man-made fibres"
+						}
+					]
+				},
+				{
+					"name": "pharmaceutical",
+					"label": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+					"Sic": [{
+							"code": "21100",
+							"label": "Manufac of basic pharmaceutical products"
+						},
+						{
+							"code": "21200",
+							"label": "Manufac of pharmaceutical preparations"
+						}
+					]
+				},
+				{
+					"name": "rubber",
+					"label": "Manufacture of rubber and plastic products",
+					"Sic": [{
+							"code": "22110",
+							"label": "Manufac rubber tyre/tube; retread/builds"
+						},
+						{
+							"code": "22190",
+							"label": "Manufacture of other rubber products"
+						},
+						{
+							"code": "22210",
+							"label": "Manufac plastic plates, sheets, tube etc"
+						},
+						{
+							"code": "22220",
+							"label": "Manufacture of plastic packing goods"
+						},
+						{
+							"code": "22230",
+							"label": "Manufacture of builders' ware of plastic"
+						},
+						{
+							"code": "22290",
+							"label": "Manufacture of other plastic products"
+						}
+					]
+				},
+				{
+					"name": "mineral",
+					"label": "Manufacture of other non-metallic mineral products",
+					"Sic": [{
+							"code": "23110",
+							"label": "Manufacture of flat glass"
+						},
+						{
+							"code": "23120",
+							"label": "Shaping and processing of flat glass"
+						},
+						{
+							"code": "23130",
+							"label": "Manufacture of hollow glass"
+						},
+						{
+							"code": "23140",
+							"label": "Manufacture of glass fibres"
+						},
+						{
+							"code": "23190",
+							"label": "Manufac other glass & special glassware"
+						},
+						{
+							"code": "23200",
+							"label": "Manufacture of refractory products"
+						},
+						{
+							"code": "23310",
+							"label": "Manufacture of ceramic tiles and flags"
+						},
+						{
+							"code": "23320",
+							"label": "Manufac clay baked bricks/tiles etc"
+						},
+						{
+							"code": "23410",
+							"label": "Manufac ceramic/ornament household items"
+						},
+						{
+							"code": "23420",
+							"label": "Manufacture of ceramic sanitary fixtures"
+						},
+						{
+							"code": "23430",
+							"label": "Manufac ceramic insulators/fittings"
+						},
+						{
+							"code": "23440",
+							"label": "Manufac other technical ceramic products"
+						},
+						{
+							"code": "23490",
+							"label": "Manufacture of other ceramic products"
+						},
+						{
+							"code": "23510",
+							"label": "Manufacture of cement"
+						},
+						{
+							"code": "23520",
+							"label": "Manufacture of lime and plaster"
+						},
+						{
+							"code": "23610",
+							"label": "Manufac concrete products (construction)"
+						},
+						{
+							"code": "23620",
+							"label": "Manufac plaster product for building use"
+						},
+						{
+							"code": "23630",
+							"label": "Manufacture of ready-mixed concrete"
+						},
+						{
+							"code": "23640",
+							"label": "Manufacture of mortars"
+						},
+						{
+							"code": "23650",
+							"label": "Manufacture of fibre cement"
+						},
+						{
+							"code": "23690",
+							"label": "Manufac othr itm concrete/plaster/cement"
+						},
+						{
+							"code": "23700",
+							"label": "Cutting, shaping and finishing of stone"
+						},
+						{
+							"code": "23910",
+							"label": "Production of abrasive products"
+						},
+						{
+							"code": "23990",
+							"label": "Manufac other non-metallic mineral prods"
+						}
+					]
+				},
+				{
+					"name": "metal",
+					"label": "Manufacture of basic metals",
+					"Sic": [{
+							"code": "24100",
+							"label": "Manufac basic iron/steel/ferro-alloys"
+						},
+						{
+							"code": "24200",
+							"label": "Manufac steel tubes/pipes/other fittings"
+						},
+						{
+							"code": "24310",
+							"label": "Cold drawing of bars"
+						},
+						{
+							"code": "24320",
+							"label": "Cold rolling of narrow strip"
+						},
+						{
+							"code": "24330",
+							"label": "Cold forming or folding"
+						},
+						{
+							"code": "24340",
+							"label": "Cold drawing of wire"
+						},
+						{
+							"code": "24410",
+							"label": "Precious metals production"
+						},
+						{
+							"code": "24420",
+							"label": "Aluminium production"
+						},
+						{
+							"code": "24430",
+							"label": "Lead, zinc and tin production"
+						},
+						{
+							"code": "24440",
+							"label": "Copper production"
+						},
+						{
+							"code": "24450",
+							"label": "Other non-ferrous metal production"
+						},
+						{
+							"code": "24460",
+							"label": "Processing of nuclear fuel"
+						},
+						{
+							"code": "24510",
+							"label": "Casting of iron"
+						},
+						{
+							"code": "24520",
+							"label": "Casting of steel"
+						},
+						{
+							"code": "24530",
+							"label": "Casting of light metals"
+						},
+						{
+							"code": "24540",
+							"label": "Casting of other non-ferrous metals"
+						}
+					]
+				},
+				{
+					"name": "fabricated",
+					"label": "Manufacture of fabricated metal products, except machinery and equipment",
+					"Sic": [{
+							"code": "25110",
+							"label": "Manufac metal structures and (parts of)"
+						},
+						{
+							"code": "25120",
+							"label": "Manufac of doors and windows of metal"
+						},
+						{
+							"code": "25210",
+							"label": "Manufac central heating radiator/boilers"
+						},
+						{
+							"code": "25290",
+							"label": "Manufac other tanks and metal containers"
+						},
+						{
+							"code": "25300",
+							"label": "Manufac steam producers not water boiler"
+						},
+						{
+							"code": "25400",
+							"label": "Manufacture of weapons and ammunition"
+						},
+						{
+							"code": "25500",
+							"label": "Forge/press/stamp/roll-form of metal"
+						},
+						{
+							"code": "25610",
+							"label": "Treatment and coating of metals"
+						},
+						{
+							"code": "25620",
+							"label": "Machining"
+						},
+						{
+							"code": "25710",
+							"label": "Manufacture of cutlery"
+						},
+						{
+							"code": "25720",
+							"label": "Manufacture of locks and hinges"
+						},
+						{
+							"code": "25730",
+							"label": "Manufacture of tools"
+						},
+						{
+							"code": "25910",
+							"label": "Manufac steel drum or similar containers"
+						},
+						{
+							"code": "25920",
+							"label": "Manufacture of light metal packaging"
+						},
+						{
+							"code": "25930",
+							"label": "Manufac wire products, chain and springs"
+						},
+						{
+							"code": "25940",
+							"label": "Manufac rivets, screws, nuts, bolts etc"
+						},
+						{
+							"code": "25990",
+							"label": "Manufac other fabricated metal products"
+						}
+					]
+				},
+				{
+					"name": "electronic",
+					"label": "Manufacture of computer, electronic and optical products",
+					"Sic": [{
+							"code": "26110",
+							"label": "Manufacture of electronic components"
+						},
+						{
+							"code": "26120",
+							"label": "Manufacture of loaded electronic boards"
+						},
+						{
+							"code": "26200",
+							"label": "Manufac computer or peripheral equipment"
+						},
+						{
+							"code": "26301",
+							"label": "Manufac telegraph/telephone apparatus"
+						},
+						{
+							"code": "26309",
+							"label": "Manufac communication kit (not phones)"
+						},
+						{
+							"code": "26400",
+							"label": "Manufacture of consumer electronics"
+						},
+						{
+							"code": "26511",
+							"label": "Manufac electric instruments for testing"
+						},
+						{
+							"code": "26512",
+							"label": "Manufac electronic process control kit"
+						},
+						{
+							"code": "26513",
+							"label": "Manufac non-electric instrument for test"
+						},
+						{
+							"code": "26514",
+							"label": "Manufac nonelectronic process contrl kit"
+						},
+						{
+							"code": "26520",
+							"label": "Manufacture of watches and clocks"
+						},
+						{
+							"code": "26600",
+							"label": "Manufac irradiation, electromedical kit"
+						},
+						{
+							"code": "26701",
+							"label": "Manufac of optical precision instruments"
+						},
+						{
+							"code": "26702",
+							"label": "Manufac photographic/filming equipment"
+						},
+						{
+							"code": "26800",
+							"label": "Manufac of magnetic and optical media"
+						}
+					]
+				},
+				{
+					"name": "electrical",
+					"label": "Manufacture of electrical equipment",
+					"Sic": [{
+							"code": "27110",
+							"label": "Manufac electric motors, generators etc"
+						},
+						{
+							"code": "27120",
+							"label": "Manufac electricity distribution/control"
+						},
+						{
+							"code": "27200",
+							"label": "Manufac of batteries and accumulators"
+						},
+						{
+							"code": "27310",
+							"label": "Manufacture of fibre optic cables"
+						},
+						{
+							"code": "27320",
+							"label": "Manufac othr electronic and wires/cables"
+						},
+						{
+							"code": "27330",
+							"label": "Manufacture of wiring devices"
+						},
+						{
+							"code": "27400",
+							"label": "Manufac of electric lighting equipment"
+						},
+						{
+							"code": "27510",
+							"label": "Manufac of electric domestic appliances"
+						},
+						{
+							"code": "27520",
+							"label": "Manufac non-electric domestic appliances"
+						},
+						{
+							"code": "27900",
+							"label": "Manufac of other electrical equipment"
+						}
+					]
+				},
+				{
+					"name": "machinery",
+					"label": "Manufacture of machinery and equipment n.e.c.",
+					"Sic": [{
+							"code": "28110",
+							"label": "Manufac engines not aircraft/car engines"
+						},
+						{
+							"code": "28120",
+							"label": "Manufacture of fluid power equipment"
+						},
+						{
+							"code": "28131",
+							"label": "Manufacture of pumps"
+						},
+						{
+							"code": "28132",
+							"label": "Manufacture of compressors"
+						},
+						{
+							"code": "28140",
+							"label": "Manufacture of other taps and valves"
+						},
+						{
+							"code": "28150",
+							"label": "Manufac bearings/gears/driving elements"
+						},
+						{
+							"code": "28210",
+							"label": "Manufac ovens, furnaces, furnace burners"
+						},
+						{
+							"code": "28220",
+							"label": "Manufac lifting and handling equipment"
+						},
+						{
+							"code": "28230",
+							"label": "Manufac office machines(not computers)"
+						},
+						{
+							"code": "28240",
+							"label": "Manufacture of power-driven hand tools"
+						},
+						{
+							"code": "28250",
+							"label": "Manufac nondomestic cooling/venting gear"
+						},
+						{
+							"code": "28290",
+							"label": "Manufac other general-purpose machinery"
+						},
+						{
+							"code": "28301",
+							"label": "Manufacture of agricultural tractors"
+						},
+						{
+							"code": "28302",
+							"label": "Manufac agriculture machine(not tractor)"
+						},
+						{
+							"code": "28410",
+							"label": "Manufacture of metal forming machinery"
+						},
+						{
+							"code": "28490",
+							"label": "Manufacture of other machine tools"
+						},
+						{
+							"code": "28910",
+							"label": "Manufacture of machinery for metallurgy"
+						},
+						{
+							"code": "28921",
+							"label": "Manufacture of machinery for mining"
+						},
+						{
+							"code": "28922",
+							"label": "Manufacture of earthmoving equipment"
+						},
+						{
+							"code": "28923",
+							"label": "Manufac concrete crusher/roadwork screen"
+						},
+						{
+							"code": "28930",
+							"label": "Manufac machine food/dk/tobacco process"
+						},
+						{
+							"code": "28940",
+							"label": "Manufac machinery for textile production"
+						},
+						{
+							"code": "28950",
+							"label": "Manufac machinery for paper production"
+						},
+						{
+							"code": "28960",
+							"label": "Manufac of plastics and rubber machinery"
+						},
+						{
+							"code": "28990",
+							"label": "Manufac other special-purpose machinery"
+						}
+					]
+				},
+				{
+					"name": "vehicles",
+					"label": "Manufacture of motor vehicles, trailers and semi-trailers",
+					"Sic": [{
+							"code": "29100",
+							"label": "Manufacture of motor vehicles"
+						},
+						{
+							"code": "29201",
+							"label": "Manufac motor vehicle bodies;not caravan"
+						},
+						{
+							"code": "29202",
+							"label": "Manufac of trailers and semi-trailers"
+						},
+						{
+							"code": "29203",
+							"label": "Manufacture of caravans"
+						},
+						{
+							"code": "29310",
+							"label": "Manufac motor vehicle electric equipment"
+						},
+						{
+							"code": "29320",
+							"label": "Manufac other parts for motor vehicles"
+						}
+					]
+				},
+				{
+					"name": "transport",
+					"label": "Manufacture of other transport equipment",
+					"Sic": [{
+							"code": "30110",
+							"label": "Building of ships or floating structures"
+						},
+						{
+							"code": "30120",
+							"label": "Building of pleasure and sporting boats"
+						},
+						{
+							"code": "30200",
+							"label": "Manufac rail locomotives/rolling stock"
+						},
+						{
+							"code": "30300",
+							"label": "Manufac air/spacecraft/related machinery"
+						},
+						{
+							"code": "30400",
+							"label": "Manufac of military fighting vehicles"
+						},
+						{
+							"code": "30910",
+							"label": "Manufacture of motorcycles"
+						},
+						{
+							"code": "30920",
+							"label": "Manufac of bicycle and invalid carriages"
+						},
+						{
+							"code": "30990",
+							"label": "Manufac other transport equipment n.e.c."
+						}
+					]
+				},
+				{
+					"name": "furniture",
+					"label": "Manufacture of furniture",
+					"Sic": [{
+							"code": "31010",
+							"label": "Manufacture of office and shop furniture"
+						},
+						{
+							"code": "31020",
+							"label": "Manufacture of kitchen furniture"
+						},
+						{
+							"code": "31030",
+							"label": "Manufacture of mattresses"
+						},
+						{
+							"code": "31090",
+							"label": "Manufacture of other furniture"
+						}
+					]
+				},
+				{
+					"name": "other",
+					"label": "Other manufacturing",
+					"Sic": [{
+							"code": "32110",
+							"label": "Striking of coins"
+						},
+						{
+							"code": "32120",
+							"label": "Manufac of jewellery and related article"
+						},
+						{
+							"code": "32130",
+							"label": "Manufac fake jewellery/related articles"
+						},
+						{
+							"code": "32200",
+							"label": "Manufacture of musical instruments"
+						},
+						{
+							"code": "32300",
+							"label": "Manufacture of sports goods"
+						},
+						{
+							"code": "32401",
+							"label": "Manufac prof/arcade games/toys"
+						},
+						{
+							"code": "32409",
+							"label": "Manufac games and toys (not arcade)"
+						},
+						{
+							"code": "32500",
+							"label": "Manufac medical/dental instruments/stock"
+						},
+						{
+							"code": "32910",
+							"label": "Manufacture of brooms and brushes"
+						},
+						{
+							"code": "32990",
+							"label": "Other manufacturing n.e.c."
+						}
+					]
+				},
+				{
+					"name": "repair",
+					"label": "Repair and installation of machinery and equipment",
+					"Sic": [{
+							"code": "33110",
+							"label": "Repair of fabricated metal products"
+						},
+						{
+							"code": "33120",
+							"label": "Repair of machinery"
+						},
+						{
+							"code": "33130",
+							"label": "Repair electronic and optical equipment"
+						},
+						{
+							"code": "33140",
+							"label": "Repair of electrical equipment"
+						},
+						{
+							"code": "33150",
+							"label": "Repair and maintenance of ships or boats"
+						},
+						{
+							"code": "33160",
+							"label": "Repair/maintenance of air or space craft"
+						},
+						{
+							"code": "33170",
+							"label": "Repair/maintain other transprt equipment"
+						},
+						{
+							"code": "33190",
+							"label": "Repair of other equipment"
+						},
+						{
+							"code": "33200",
+							"label": "Installing industrial machinery/equipmnt"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "D",
+			"label": "Electricity, gas, steam and air conditioning supply",
+			"L2": [{
+				"name": "all",
+				"label": "Electricity, gas, steam and air conditioning supply",
+				"Sic": [{
+						"code": "35110",
+						"label": "Production of electricity"
+					},
+					{
+						"code": "35120",
+						"label": "Transmission of electricity"
+					},
+					{
+						"code": "35130",
+						"label": "Distribution of electricity"
+					},
+					{
+						"code": "35140",
+						"label": "Trade of electricity"
+					},
+					{
+						"code": "35210",
+						"label": "Manufacture of gas"
+					},
+					{
+						"code": "35220",
+						"label": "Distribution of gaseous fuels via mains"
+					},
+					{
+						"code": "35230",
+						"label": "Trade of gas through mains"
+					},
+					{
+						"code": "35300",
+						"label": "Steam and air conditioning supply"
+					}
+				]
+			}]
+		},
+		{
+			"code": "E",
+			"label": "Water supply, sewerage, waste management and remediation activities",
+			"L2": [{
+					"name": "water",
+					"label": "Water collection, treatment and supply",
+					"Sic": [{
+						"code": "36000",
+						"label": "Water collection, treatment and supply"
+					}]
+				},
+				{
+					"name": "sewerage",
+					"label": "Sewerage",
+					"Sic": [{
+						"code": "37000",
+						"label": "Sewerage"
+					}]
+				},
+				{
+					"name": "waste",
+					"label": "Waste collection, treatment and disposal activities; materials recovery",
+					"Sic": [{
+							"code": "38110",
+							"label": "Collection of non-hazardous waste"
+						},
+						{
+							"code": "38120",
+							"label": "Collection of hazardous waste"
+						},
+						{
+							"code": "38210",
+							"label": "Treat and dispose of non-hazardous waste"
+						},
+						{
+							"code": "38220",
+							"label": "Treating and disposal of hazardous waste"
+						},
+						{
+							"code": "38310",
+							"label": "Dismantling of wrecks"
+						},
+						{
+							"code": "38320",
+							"label": "Recovery of sorted materials"
+						}
+					]
+				},
+				{
+					"name": "remediation",
+					"label": "Remediation activities and other waste management services",
+					"Sic": [{
+						"code": "39000",
+						"label": "Decontamination & other waste removal"
+					}]
+				}
+			]
+		},
+		{
+			"code": "F",
+			"label": "Construction",
+			"L2": [{
+					"name": "buildings",
+					"label": "Construction of buildings",
+					"Sic": [{
+							"code": "41100",
+							"label": "Development of building projects"
+						},
+						{
+							"code": "41101",
+							"label": "Dev and selling - residential"
+						},
+						{
+							"code": "41102",
+							"label": "Dev and selling - office"
+						},
+						{
+							"code": "41103",
+							"label": "Dev and selling - industrial"
+						},
+						{
+							"code": "41104",
+							"label": "Dev and selling - retail"
+						},
+						{
+							"code": "41105",
+							"label": "Dev and selling - other"
+						},
+						{
+							"code": "41201",
+							"label": "Construction of commercial buildings"
+						},
+						{
+							"code": "41202",
+							"label": "Construction of domestic buildings"
+						}
+					]
+				},
+				{
+					"name": "engineering",
+					"label": "Civil engineering",
+					"Sic": [{
+							"code": "42110",
+							"label": "Construction of roads and motorways"
+						},
+						{
+							"code": "42120",
+							"label": "Construction of railways and underground"
+						},
+						{
+							"code": "42130",
+							"label": "Construction of bridges and tunnels"
+						},
+						{
+							"code": "42210",
+							"label": "Building of utility projects for fluids"
+						},
+						{
+							"code": "42220",
+							"label": "Electricity/telecom construction project"
+						},
+						{
+							"code": "42910",
+							"label": "Construction of water projects"
+						},
+						{
+							"code": "42990",
+							"label": "Construction/other civil engineer projct"
+						}
+					]
+				},
+				{
+					"name": "specialised",
+					"label": "Specialised construction activities",
+					"Sic": [{
+							"code": "43110",
+							"label": "Demolition"
+						},
+						{
+							"code": "43120",
+							"label": "Site preparation"
+						},
+						{
+							"code": "43130",
+							"label": "Test drilling and boring"
+						},
+						{
+							"code": "43210",
+							"label": "Electrical installation"
+						},
+						{
+							"code": "43220",
+							"label": "Plumbing, heat and air-con installation"
+						},
+						{
+							"code": "43290",
+							"label": "Other construction installation"
+						},
+						{
+							"code": "43310",
+							"label": "Plastering"
+						},
+						{
+							"code": "43320",
+							"label": "Joinery installation"
+						},
+						{
+							"code": "43330",
+							"label": "Floor and wall covering"
+						},
+						{
+							"code": "43341",
+							"label": "Painting"
+						},
+						{
+							"code": "43342",
+							"label": "Glazing"
+						},
+						{
+							"code": "43390",
+							"label": "Other building completion and finishing"
+						},
+						{
+							"code": "43910",
+							"label": "Roofing activities"
+						},
+						{
+							"code": "43991",
+							"label": "Scaffold erection"
+						},
+						{
+							"code": "43999",
+							"label": "Specialist build activity (not scaffold)"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "G",
+			"label": "Wholesale and retail trade repair of motor vehicles and motorcycles",
+			"L2": [{
+					"name": "motorcycles",
+					"label": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+					"Sic": [{
+							"code": "45111",
+							"label": "Sale of new cars or light motor vehicles"
+						},
+						{
+							"code": "45112",
+							"label": "Sale of used cars or light motor vehicle"
+						},
+						{
+							"code": "45190",
+							"label": "Sale of other motor vehicles"
+						},
+						{
+							"code": "45200",
+							"label": "Maintenance and repair of motor vehicles"
+						},
+						{
+							"code": "45310",
+							"label": "W'sale trade of motor vehicle parts etc"
+						},
+						{
+							"code": "45320",
+							"label": "Retail trade of motor vehicle parts etc"
+						},
+						{
+							"code": "45400",
+							"label": "Sale/repair motorcycles & related parts"
+						}
+					]
+				},
+				{
+					"name": "wholesale",
+					"label": "Wholesale trade, except of motor vehicles and motorcycles",
+					"Sic": [{
+							"code": "46110",
+							"label": "Agents selling live animals/textiles etc"
+						},
+						{
+							"code": "46120",
+							"label": "Agents selling fuel/ore/metal/chemicals"
+						},
+						{
+							"code": "46130",
+							"label": "Agents for sale timber/building material"
+						},
+						{
+							"code": "46140",
+							"label": "Agents selling machinery/ships/aircraft"
+						},
+						{
+							"code": "46150",
+							"label": "Agent selling furniture/h'hold goods etc"
+						},
+						{
+							"code": "46160",
+							"label": "Agents sell clothes/footwear/leatherwear"
+						},
+						{
+							"code": "46170",
+							"label": "Agents for sale of food/drink/tobacco"
+						},
+						{
+							"code": "46180",
+							"label": "Agents for sales other specific products"
+						},
+						{
+							"code": "46190",
+							"label": "Agents involved in sale of various goods"
+						},
+						{
+							"code": "46210",
+							"label": "W'sale of grain, unmanufacd tobacco/seed"
+						},
+						{
+							"code": "46220",
+							"label": "Wholesale of flowers and plants"
+						},
+						{
+							"code": "46230",
+							"label": "Wholesale of live animals"
+						},
+						{
+							"code": "46240",
+							"label": "Wholesale of hides, skins and leather"
+						},
+						{
+							"code": "46310",
+							"label": "Wholesale of fruit and vegetables"
+						},
+						{
+							"code": "46320",
+							"label": "Wholesale of meat and meat products"
+						},
+						{
+							"code": "46330",
+							"label": "W'sale dairy product/eggs/edible oil/fat"
+						},
+						{
+							"code": "46341",
+							"label": "W'sale juices/mineral water/soft drink"
+						},
+						{
+							"code": "46342",
+							"label": "W'sale of wine, beer, spirits etc"
+						},
+						{
+							"code": "46350",
+							"label": "Wholesale of tobacco products"
+						},
+						{
+							"code": "46360",
+							"label": "W'sale sugar & chocolate & sugar sweets"
+						},
+						{
+							"code": "46370",
+							"label": "Wholesale of coffee, tea, cocoa, spices"
+						},
+						{
+							"code": "46380",
+							"label": "W'sale other food;fish/crustacean/molusc"
+						},
+						{
+							"code": "46390",
+							"label": "Non-specialist w'sale food/drink/tobacco"
+						},
+						{
+							"code": "46410",
+							"label": "Wholesale of textiles"
+						},
+						{
+							"code": "46420",
+							"label": "Wholesale of clothing and footwear"
+						},
+						{
+							"code": "46431",
+							"label": "W'sale records/tapes/cds/videos/players"
+						},
+						{
+							"code": "46439",
+							"label": "W'sale radio/tv/h'hold electricals n.e.c"
+						},
+						{
+							"code": "46440",
+							"label": "W'sale china/glassware/cleaning material"
+						},
+						{
+							"code": "46450",
+							"label": "Wholesale of perfume and cosmetics"
+						},
+						{
+							"code": "46460",
+							"label": "Wholesale of pharmaceutical goods"
+						},
+						{
+							"code": "46470",
+							"label": "W'sale of furniture, carpet and lighting"
+						},
+						{
+							"code": "46480",
+							"label": "Wholesale of watches and jewellery"
+						},
+						{
+							"code": "46491",
+							"label": "Wholesale of musical instruments"
+						},
+						{
+							"code": "46499",
+							"label": "W'sale h'hold good(not music instrument)"
+						},
+						{
+							"code": "46510",
+							"label": "W'sale of computers/peripheral/software"
+						},
+						{
+							"code": "46520",
+							"label": "W'sale of electronic/telecom equipment"
+						},
+						{
+							"code": "46610",
+							"label": "W'sale agriculture machines/equipmnt etc"
+						},
+						{
+							"code": "46620",
+							"label": "Wholesale of machine tools"
+						},
+						{
+							"code": "46630",
+							"label": "W'sale mine/build/civil engineer machine"
+						},
+						{
+							"code": "46640",
+							"label": "W'sale machines for textile industry"
+						},
+						{
+							"code": "46650",
+							"label": "Wholesale of office furniture"
+						},
+						{
+							"code": "46660",
+							"label": "W'sale of other office machines or gear"
+						},
+						{
+							"code": "46690",
+							"label": "Wholesale of other machines or equipment"
+						},
+						{
+							"code": "46711",
+							"label": "W'sale petroleum and petroleum products"
+						},
+						{
+							"code": "46719",
+							"label": "W'sale grease/lubricant/oil(not petrol)"
+						},
+						{
+							"code": "46720",
+							"label": "Wholesale of metals and metal ores"
+						},
+						{
+							"code": "46730",
+							"label": "W'sale wood/build material/sanitary kit"
+						},
+						{
+							"code": "46740",
+							"label": "W'sale hardware/plumb/heat equipment"
+						},
+						{
+							"code": "46750",
+							"label": "Wholesale of chemical products"
+						},
+						{
+							"code": "46760",
+							"label": "Wholesale of other intermediate products"
+						},
+						{
+							"code": "46770",
+							"label": "Wholesale of waste and scrap"
+						},
+						{
+							"code": "46900",
+							"label": "Non-specialised wholesale trade"
+						}
+					]
+				},
+				{
+					"name": "retail",
+					"label": "Retail trade, except of motor vehicles and motorcycles",
+					"Sic": [{
+							"code": "47110",
+							"label": "Non specialised retail sale mainly food"
+						},
+						{
+							"code": "47190",
+							"label": "Other retail sale in general stores"
+						},
+						{
+							"code": "47210",
+							"label": "Retail sale fruit & veg in special shops"
+						},
+						{
+							"code": "47220",
+							"label": "Specialist retail sale meat/meat product"
+						},
+						{
+							"code": "47230",
+							"label": "Specialist retail sale fish/shellfish"
+						},
+						{
+							"code": "47240",
+							"label": "Specialist retail sale bread/cakes etc"
+						},
+						{
+							"code": "47250",
+							"label": "Retail sale beverages in specialist shop"
+						},
+						{
+							"code": "47260",
+							"label": "Retail sale tobacco product (specialist)"
+						},
+						{
+							"code": "47290",
+							"label": "Other retail food sales in special shops"
+						},
+						{
+							"code": "47300",
+							"label": "Retail sale vehicle fuel in special shop"
+						},
+						{
+							"code": "47410",
+							"label": "Specialist retail sale computer/software"
+						},
+						{
+							"code": "47421",
+							"label": "Retail sale mobile phone in special shop"
+						},
+						{
+							"code": "47429",
+							"label": "Special retail sale comms (not mobiles)"
+						},
+						{
+							"code": "47430",
+							"label": "Specialist retail sale audio/video kit"
+						},
+						{
+							"code": "47510",
+							"label": "Sales of textiles in specialist stores"
+						},
+						{
+							"code": "47520",
+							"label": "Specialist retailer hardware/paint/glass"
+						},
+						{
+							"code": "47530",
+							"label": "Specialist retail:wall & floor coverings"
+						},
+						{
+							"code": "47540",
+							"label": "Specialst retail sale electric appliance"
+						},
+						{
+							"code": "47591",
+							"label": "Specialist retail sale music instrument"
+						},
+						{
+							"code": "47599",
+							"label": "Special retail sale furniture/lights etc"
+						},
+						{
+							"code": "47610",
+							"label": "Retail sale of books in specialist store"
+						},
+						{
+							"code": "47620",
+							"label": "Specialist retail sale papers/stationery"
+						},
+						{
+							"code": "47630",
+							"label": "Specialist retailer music/video recordng"
+						},
+						{
+							"code": "47640",
+							"label": "Retail sale sports gear in special shops"
+						},
+						{
+							"code": "47650",
+							"label": "Retail sale games/toys in special stores"
+						},
+						{
+							"code": "47710",
+							"label": "Sales of clothing in specialised stores"
+						},
+						{
+							"code": "47721",
+							"label": "Sales of footwear in specialised stores"
+						},
+						{
+							"code": "47722",
+							"label": "Retail sale leather gear in special shop"
+						},
+						{
+							"code": "47730",
+							"label": "Dispensing chemist in specialised stores"
+						},
+						{
+							"code": "47741",
+							"label": "Retail sale hearing aids in special shop"
+						},
+						{
+							"code": "47749",
+							"label": "Special retail sale of medic/orthopaedic"
+						},
+						{
+							"code": "47750",
+							"label": "Special retail sale cosmetic/toilet item"
+						},
+						{
+							"code": "47760",
+							"label": "Specialist retail sale floristry or pets"
+						},
+						{
+							"code": "47770",
+							"label": "Retail sale in jewelry/watch stores"
+						},
+						{
+							"code": "47781",
+							"label": "Retail sale in commercial art galleries"
+						},
+						{
+							"code": "47782",
+							"label": "Retail sale by opticians"
+						},
+						{
+							"code": "47789",
+							"label": "Other specialist retail sale new goods"
+						},
+						{
+							"code": "47791",
+							"label": "Retail sale in antique/antique book shop"
+						},
+						{
+							"code": "47799",
+							"label": "Retail sale 2nd-hand goods(not antiques)"
+						},
+						{
+							"code": "47810",
+							"label": "Food/drink/tobacco sale via markets"
+						},
+						{
+							"code": "47820",
+							"label": "Retail sale clothing via markets/stalls"
+						},
+						{
+							"code": "47890",
+							"label": "Retail sale other goods via stall/market"
+						},
+						{
+							"code": "47910",
+							"label": "Retail sale via mail or internet"
+						},
+						{
+							"code": "47990",
+							"label": "Other retail sale not store/stall/market"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "H",
+			"label": "Transportation and storage",
+			"L2": [{
+					"name": "land",
+					"label": "Land transport and transport via pipelines",
+					"Sic": [{
+							"code": "49100",
+							"label": "Passenger rail transport, interurban"
+						},
+						{
+							"code": "49200",
+							"label": "Freight rail transport"
+						},
+						{
+							"code": "49311",
+							"label": "Passenger rail transport (underground)"
+						},
+						{
+							"code": "49319",
+							"label": "(nonunderground rail)passenger transport"
+						},
+						{
+							"code": "49320",
+							"label": "Taxi operation"
+						},
+						{
+							"code": "49390",
+							"label": "Other passenger land transport n.e.c."
+						},
+						{
+							"code": "49410",
+							"label": "Freight transport by road"
+						},
+						{
+							"code": "49420",
+							"label": "Removal services"
+						},
+						{
+							"code": "49500",
+							"label": "Transport via pipeline"
+						}
+					]
+				},
+				{
+					"name": "water",
+					"label": "Water transport",
+					"Sic": [{
+							"code": "50100",
+							"label": "Sea or coastal passenger water transport"
+						},
+						{
+							"code": "50200",
+							"label": "Sea and coastal freight water transport"
+						},
+						{
+							"code": "50300",
+							"label": "Inland passenger water transport"
+						},
+						{
+							"code": "50400",
+							"label": "Inland freight water transport"
+						}
+					]
+				},
+				{
+					"name": "air",
+					"label": "Air transport",
+					"Sic": [{
+							"code": "50100",
+							"label": "Sea or coastal passenger water transport"
+						},
+						{
+							"code": "50200",
+							"label": "Sea and coastal freight water transport"
+						},
+						{
+							"code": "50300",
+							"label": "Inland passenger water transport"
+						},
+						{
+							"code": "50400",
+							"label": "Inland freight water transport"
+						}
+					]
+				},
+				{
+					"name": "warehousing",
+					"label": "Warehousing and support activities for transportation",
+					"Sic": [{
+							"code": "52101",
+							"label": "Operation of storage for water transport"
+						},
+						{
+							"code": "52102",
+							"label": "Operation of storage for air transport"
+						},
+						{
+							"code": "52103",
+							"label": "Operation of storage for land transport"
+						},
+						{
+							"code": "52211",
+							"label": "Operation of rail freight terminals"
+						},
+						{
+							"code": "52212",
+							"label": "Operating rail user facilities instation"
+						},
+						{
+							"code": "52213",
+							"label": "Ops bus/coach rider facility at stations"
+						},
+						{
+							"code": "52219",
+							"label": "Other service acts to land transport nec"
+						},
+						{
+							"code": "52220",
+							"label": "Servce activity related to water transpt"
+						},
+						{
+							"code": "52230",
+							"label": "Service activity related to air transprt"
+						},
+						{
+							"code": "52241",
+							"label": "Water transport cargo handling activity"
+						},
+						{
+							"code": "52242",
+							"label": "Cargo handling for air transprt activity"
+						},
+						{
+							"code": "52243",
+							"label": "Cargo handlng of land transport activity"
+						},
+						{
+							"code": "52290",
+							"label": "Other transportation support activities"
+						}
+					]
+				},
+				{
+					"name": "postal",
+					"label": "Postal and courier activities",
+					"Sic": [{
+							"code": "53100",
+							"label": "Postal work under universal service duty"
+						},
+						{
+							"code": "53201",
+							"label": "Licensed carriers"
+						},
+						{
+							"code": "53202",
+							"label": "Unlicensed carriers"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "I",
+			"label": "Accommodation and food service activities",
+			"L2": [{
+					"name": "accomodation",
+					"label": "Accomodation",
+					"Sic": [{
+							"code": "55100",
+							"label": "Hotels and similar accommodation"
+						},
+						{
+							"code": "55201",
+							"label": "Holiday centres and villages"
+						},
+						{
+							"code": "55202",
+							"label": "Youth hostels"
+						},
+						{
+							"code": "55209",
+							"label": "Other holiday/short-stay accomm n.e.c."
+						},
+						{
+							"code": "55300",
+							"label": "Camping grounds, recreation vehicle park"
+						},
+						{
+							"code": "55900",
+							"label": "Other accommodation"
+						}
+					]
+				},
+				{
+					"name": "food",
+					"label": "Food and beverage service activities",
+					"Sic": [{
+							"code": "56101",
+							"label": "Licensed restaurants"
+						},
+						{
+							"code": "56102",
+							"label": "Unlicensed restaurants and cafes"
+						},
+						{
+							"code": "56103",
+							"label": "Takeaway food shops or mobile food stand"
+						},
+						{
+							"code": "56210",
+							"label": "Event catering activities"
+						},
+						{
+							"code": "56290",
+							"label": "Other food service activities"
+						},
+						{
+							"code": "56301",
+							"label": "Licensed clubs"
+						},
+						{
+							"code": "56302",
+							"label": "Public houses and bars"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "J",
+			"label": "Information and communication",
+			"L2": [{
+					"name": "publishing",
+					"label": "Publishing activities",
+					"Sic": [{
+							"code": "58110",
+							"label": "Book publishing"
+						},
+						{
+							"code": "58120",
+							"label": "Publishing directories and mailing lists"
+						},
+						{
+							"code": "58130",
+							"label": "Publishing of newspapers"
+						},
+						{
+							"code": "58141",
+							"label": "Publishing of learned journals"
+						},
+						{
+							"code": "58142",
+							"label": "Publishing consumer/professional journal"
+						},
+						{
+							"code": "58190",
+							"label": "Other publishing activities"
+						},
+						{
+							"code": "58210",
+							"label": "Publishing of computer games"
+						},
+						{
+							"code": "58290",
+							"label": "Other software publishing"
+						}
+					]
+				},
+				{
+					"name": "media",
+					"label": "Motion picture, video and television programme production, sound recording and music publishing activities",
+					"Sic": [{
+							"code": "59111",
+							"label": "Motion picture production activities"
+						},
+						{
+							"code": "59112",
+							"label": "Video production activities"
+						},
+						{
+							"code": "59113",
+							"label": "Tv programme production activities"
+						},
+						{
+							"code": "59120",
+							"label": "Post-production of film/video/tv program"
+						},
+						{
+							"code": "59131",
+							"label": "Motion picture distribution activities"
+						},
+						{
+							"code": "59132",
+							"label": "Video distribution activities"
+						},
+						{
+							"code": "59133",
+							"label": "Tv programme distribution activities"
+						},
+						{
+							"code": "59140",
+							"label": "Motion picture projection activities"
+						},
+						{
+							"code": "59200",
+							"label": "Sound recording/music publisher activity"
+						}
+					]
+				},
+				{
+					"name": "broadcasting",
+					"label": "Programming and broadcasting activities",
+					"Sic": [{
+							"code": "60100",
+							"label": "Radio broadcasting"
+						},
+						{
+							"code": "60200",
+							"label": "Tv programming and broadcasting activity"
+						}
+					]
+				},
+				{
+					"name": "telecoms",
+					"label": "Telecommunications",
+					"Sic": [{
+							"code": "61100",
+							"label": "Wired telecommunications activities"
+						},
+						{
+							"code": "61200",
+							"label": "Wireless telecommunications activities"
+						},
+						{
+							"code": "61300",
+							"label": "Satellite telecommunications activities"
+						},
+						{
+							"code": "61900",
+							"label": "Other telecommunications activities"
+						}
+					]
+				},
+				{
+					"name": "computer",
+					"label": "Computer programming, consultancy and related activities",
+					"Sic": [{
+							"code": "62011",
+							"label": "Interactive leisure software development"
+						},
+						{
+							"code": "62012",
+							"label": "Business or domestic software developing"
+						},
+						{
+							"code": "62020",
+							"label": "Computer consultancy activities"
+						},
+						{
+							"code": "62030",
+							"label": "Computer facilities management activity"
+						},
+						{
+							"code": "62090",
+							"label": "Other info tech/computer service activit"
+						}
+					]
+				},
+				{
+					"name": "information",
+					"label": "Information service activities",
+					"Sic": [{
+							"code": "63110",
+							"label": "Data processing and related activity"
+						},
+						{
+							"code": "63120",
+							"label": "Web portals"
+						},
+						{
+							"code": "63910",
+							"label": "News agency activities"
+						},
+						{
+							"code": "63990",
+							"label": "Other info service activity n.e.c."
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "K",
+			"label": "Financial and insurance activities",
+			"L2": [{
+					"name": "financial",
+					"label": "Financial service activities, except insurance and pension funding",
+					"Sic": [{
+							"code": "64110",
+							"label": "Central banking"
+						},
+						{
+							"code": "64191",
+							"label": "Banks"
+						},
+						{
+							"code": "64192",
+							"label": "Building societies"
+						},
+						{
+							"code": "64201",
+							"label": "Activity agricultural holding companies"
+						},
+						{
+							"code": "64202",
+							"label": "Activity of production holding companies"
+						},
+						{
+							"code": "64203",
+							"label": "Activity construction holding companies"
+						},
+						{
+							"code": "64204",
+							"label": "Activity distribution holding companies"
+						},
+						{
+							"code": "64205",
+							"label": "Activity financial services holding co's"
+						},
+						{
+							"code": "64209",
+							"label": "Activity other holding companies n.e.c."
+						},
+						{
+							"code": "64301",
+							"label": "Activities of investment trusts"
+						},
+						{
+							"code": "64302",
+							"label": "Activities of unit trusts"
+						},
+						{
+							"code": "64303",
+							"label": "Activity venture/developmnt capital co's"
+						},
+						{
+							"code": "64304",
+							"label": "Activity of open-ended investment co.s"
+						},
+						{
+							"code": "64305",
+							"label": "Activities of property unit trusts"
+						},
+						{
+							"code": "64306",
+							"label": "Activity of real estate investment trust"
+						},
+						{
+							"code": "64910",
+							"label": "Financial leasing"
+						},
+						{
+							"code": "64921",
+							"label": "Credit granting by non-deposit fin house"
+						},
+						{
+							"code": "64922",
+							"label": "Activities of mortgage finance companies"
+						},
+						{
+							"code": "64929",
+							"label": "Other credit granting n.e.c."
+						},
+						{
+							"code": "64991",
+							"label": "Security dealing on own account"
+						},
+						{
+							"code": "64992",
+							"label": "Factoring"
+						},
+						{
+							"code": "64999",
+							"label": "Other financial service activity n.e.c."
+						}
+					]
+				},
+				{
+					"name": "insurance",
+					"label": "Insurance, reinsurance and pension funding, except compulsory social security",
+					"Sic": [{
+							"code": "65110",
+							"label": "Life insurance"
+						},
+						{
+							"code": "65120",
+							"label": "Non-life insurance"
+						},
+						{
+							"code": "65201",
+							"label": "Life reinsurance"
+						},
+						{
+							"code": "65202",
+							"label": "Non-life reinsurance"
+						},
+						{
+							"code": "65300",
+							"label": "Pension funding"
+						}
+					]
+				},
+				{
+					"name": "auxillary",
+					"label": "Activities auxiliary to financial services and insurance activities",
+					"Sic": [{
+							"code": "66110",
+							"label": "Administration of financial markets"
+						},
+						{
+							"code": "66120",
+							"label": "Security and commodity contracts broking"
+						},
+						{
+							"code": "66190",
+							"label": "Financial serv support acts(not funding)"
+						},
+						{
+							"code": "66210",
+							"label": "Risk and damage evaluation"
+						},
+						{
+							"code": "66220",
+							"label": "Activity of insurance agents and brokers"
+						},
+						{
+							"code": "66290",
+							"label": "Other acts auxilary to insurance/pension"
+						},
+						{
+							"code": "66300",
+							"label": "Fund management activities"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "L",
+			"label": "Real estate activities",
+			"L2": [{
+				"name": "all",
+				"label": "Real estate activities",
+				"Sic": [{
+						"code": "68100",
+						"label": "Buying and selling of own real estate"
+					},
+					{
+						"code": "68201",
+						"label": "Rent/operation housing assoc'n property"
+					},
+					{
+						"code": "68202",
+						"label": "Let/operate conference/exhibition centre"
+					},
+					{
+						"code": "68203",
+						"label": "Letting own property-residential"
+					},
+					{
+						"code": "68204",
+						"label": "Letting own property-office"
+					},
+					{
+						"code": "68205",
+						"label": "Letting own property-industrial"
+					},
+					{
+						"code": "68206",
+						"label": "Letting own property-retail"
+					},
+					{
+						"code": "68209",
+						"label": "Letting/operating own/leased real estate"
+					},
+					{
+						"code": "68310",
+						"label": "Real estate agencies"
+					},
+					{
+						"code": "68320",
+						"label": "Manage real estate on fee/contract basis"
+					}
+				]
+			}]
+		},
+		{
+			"code": "M",
+			"label": "Professional, scientific and technical activities",
+			"L2": [{
+					"name": "legal",
+					"label": "Legal and accounting activities",
+					"Sic": [{
+							"code": "69101",
+							"label": "Barristers at law"
+						},
+						{
+							"code": "69102",
+							"label": "Solicitors"
+						},
+						{
+							"code": "69109",
+							"label": "Other legal (executors/patent/copyright)"
+						},
+						{
+							"code": "69201",
+							"label": "Accounting, and auditing activities"
+						},
+						{
+							"code": "69202",
+							"label": "Bookkeeping activities"
+						},
+						{
+							"code": "69203",
+							"label": "Tax consultancy"
+						}
+					]
+				},
+				{
+					"name": "management",
+					"label": "Activities of head offices; management consultancy activities",
+					"Sic": [{
+							"code": "70100",
+							"label": "Activities of head offices"
+						},
+						{
+							"code": "70210",
+							"label": "Public relation or communicator activity"
+						},
+						{
+							"code": "70221",
+							"label": "Financial management"
+						},
+						{
+							"code": "70229",
+							"label": "Mngmnt consultant activity(not fnancial)"
+						}
+					]
+				},
+				{
+					"name": "engineering",
+					"label": "Architectural and engineering activities; technical testing and analysis",
+					"Sic": [{
+							"code": "71111",
+							"label": "Architectural activities"
+						},
+						{
+							"code": "71112",
+							"label": "Urban plan/landscape architectur activit"
+						},
+						{
+							"code": "71121",
+							"label": "Engineering design of industrial process"
+						},
+						{
+							"code": "71122",
+							"label": "Engineering related consulting activity"
+						},
+						{
+							"code": "71129",
+							"label": "Other engineering activity n.e.c"
+						},
+						{
+							"code": "71200",
+							"label": "Technical testing and analysis"
+						}
+					]
+				},
+				{
+					"name": "scientific",
+					"label": "Scientific research and development",
+					"Sic": [{
+							"code": "72110",
+							"label": "Research/experiment development biotech"
+						},
+						{
+							"code": "72190",
+							"label": "Other r & d natural science/engineering"
+						},
+						{
+							"code": "72200",
+							"label": "R & dev on social science and humanities"
+						}
+					]
+				},
+				{
+					"name": "advertising",
+					"label": "Advertising and market research",
+					"Sic": [{
+							"code": "73110",
+							"label": "Advertising agencies"
+						},
+						{
+							"code": "73120",
+							"label": "Media representation"
+						},
+						{
+							"code": "73200",
+							"label": "Market research or public opinion polls"
+						}
+					]
+				},
+				{
+					"name": "other",
+					"label": "Other professional, scientific and technical activities",
+					"Sic": [{
+							"code": "74100",
+							"label": "Specialised design activities"
+						},
+						{
+							"code": "74201",
+							"label": "Portrait photographic activities"
+						},
+						{
+							"code": "74202",
+							"label": "Other special photography (not portrait)"
+						},
+						{
+							"code": "74203",
+							"label": "Film processing"
+						},
+						{
+							"code": "74209",
+							"label": "Other photographic activity n.e.c."
+						},
+						{
+							"code": "74300",
+							"label": "Translation and interpretation activity"
+						},
+						{
+							"code": "74901",
+							"label": "Environmental consulting activities"
+						},
+						{
+							"code": "74902",
+							"label": "Quantity surveying activities"
+						},
+						{
+							"code": "74909",
+							"label": "Other professional/sciency/technical act"
+						}
+					]
+				},
+				{
+					"name": "veterinary",
+					"label": "Veterinary activities",
+					"Sic": [{
+						"code": "75000",
+						"label": "Veterinary activities"
+					}]
+				}
+			]
+		},
+		{
+			"code": "N",
+			"label": "Administrative and support service activities",
+			"L2": [{
+					"name": "rental",
+					"label": "Rental and leasing activities",
+					"Sic": [{
+							"code": "77110",
+							"label": "Rent/lease of cars/light motor vehicles"
+						},
+						{
+							"code": "77120",
+							"label": "Renting and leasing of trucks"
+						},
+						{
+							"code": "77210",
+							"label": "Rent/lease of recreation and sport goods"
+						},
+						{
+							"code": "77220",
+							"label": "Renting of video tapes and disks"
+						},
+						{
+							"code": "77291",
+							"label": "Rent/lease media entertainment equipment"
+						},
+						{
+							"code": "77299",
+							"label": "Rent/lease other personal/h'hold goods"
+						},
+						{
+							"code": "77310",
+							"label": "Rent/lease agriculture machine/equipment"
+						},
+						{
+							"code": "77320",
+							"label": "Rent/lease building/engineering machines"
+						},
+						{
+							"code": "77330",
+							"label": "Rent/lease office machinery & equipment"
+						},
+						{
+							"code": "77341",
+							"label": "Rent/lease passenger water transprt gear"
+						},
+						{
+							"code": "77342",
+							"label": "Rent/lease freight water transport equip"
+						},
+						{
+							"code": "77351",
+							"label": "Rent/lease passenger air transport equip"
+						},
+						{
+							"code": "77352",
+							"label": "Rent/lease freight air transport gear"
+						},
+						{
+							"code": "77390",
+							"label": "Rent/lease other machinery/equipment etc"
+						},
+						{
+							"code": "77400",
+							"label": "Leasing intellectual ppty(not copyright)"
+						}
+					]
+				},
+				{
+					"name": "employment",
+					"label": "Employment activities",
+					"Sic": [{
+							"code": "78101",
+							"label": "Film, tv and other theatrical casting"
+						},
+						{
+							"code": "78109",
+							"label": "Activity employment placing agencies"
+						},
+						{
+							"code": "78200",
+							"label": "Temporary employment agency activities"
+						},
+						{
+							"code": "78300",
+							"label": "Other human resources provision"
+						}
+					]
+				},
+				{
+					"name": "travel",
+					"label": "Travel agency, tour operator and other reservation service and related activities",
+					"Sic": [{
+							"code": "79110",
+							"label": "Travel agency activities"
+						},
+						{
+							"code": "79120",
+							"label": "Tour operator activities"
+						},
+						{
+							"code": "79901",
+							"label": "Activities of tourist guides"
+						},
+						{
+							"code": "79909",
+							"label": "Other reservation activity(not guides)"
+						}
+					]
+				},
+				{
+					"name": "security",
+					"label": "Security and investigation activities",
+					"Sic": [{
+							"code": "80100",
+							"label": "Private security activities"
+						},
+						{
+							"code": "80200",
+							"label": "Security systems service activities"
+						},
+						{
+							"code": "80300",
+							"label": "Investigation activities"
+						}
+					]
+				},
+				{
+					"name": "buildings",
+					"label": "Services to buildings and landscape activities",
+					"Sic": [{
+							"code": "81100",
+							"label": "Combined facilities support activities"
+						},
+						{
+							"code": "81210",
+							"label": "General cleaning of buildings"
+						},
+						{
+							"code": "81221",
+							"label": "Window cleaning services"
+						},
+						{
+							"code": "81222",
+							"label": "Specialised cleaning services"
+						},
+						{
+							"code": "81223",
+							"label": "Furnace and chimney cleaning services"
+						},
+						{
+							"code": "81229",
+							"label": "Building/industrial cleaning n.e.c."
+						},
+						{
+							"code": "81291",
+							"label": "Disinfecting and extermination services"
+						},
+						{
+							"code": "81299",
+							"label": "Cleaning services (not disinfecting)"
+						},
+						{
+							"code": "81300",
+							"label": "Landscape service activities"
+						}
+					]
+				},
+				{
+					"name": "administrative",
+					"label": "Office administrative, office support and other business support activities",
+					"Sic": [{
+							"code": "82110",
+							"label": "Combined office admin service activity"
+						},
+						{
+							"code": "82190",
+							"label": "Photocopy & other office support activit"
+						},
+						{
+							"code": "82200",
+							"label": "Activities of call centres"
+						},
+						{
+							"code": "82301",
+							"label": "Activity exhibition and fair organizers"
+						},
+						{
+							"code": "82302",
+							"label": "Activities of conference organizers"
+						},
+						{
+							"code": "82911",
+							"label": "Activities of collection agencies"
+						},
+						{
+							"code": "82912",
+							"label": "Activities of credit bureaus"
+						},
+						{
+							"code": "82920",
+							"label": "Packaging activities"
+						},
+						{
+							"code": "82990",
+							"label": "Business support service activity n.e.c."
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "O",
+			"label": "Public administration and defense compulsory social security",
+			"L2": [{
+				"name": "all",
+				"label": "Public administration and defence; compulsory social security",
+				"Sic": [{
+						"code": "84110",
+						"label": "General public administration activities"
+					},
+					{
+						"code": "84120",
+						"label": "Regulation health care/education etc"
+					},
+					{
+						"code": "84130",
+						"label": "Regul/aiding of efficient ops of co's"
+					},
+					{
+						"code": "84210",
+						"label": "Foreign affairs"
+					},
+					{
+						"code": "84220",
+						"label": "Defence activities"
+					},
+					{
+						"code": "84230",
+						"label": "Justice and judicial activities"
+					},
+					{
+						"code": "84240",
+						"label": "Public order and safety activities"
+					},
+					{
+						"code": "84250",
+						"label": "Fire service activities"
+					},
+					{
+						"code": "84300",
+						"label": "Compulsory social security activities"
+					}
+				]
+			}]
+		},
+		{
+			"code": "P",
+			"label": "Education",
+			"L2": [{
+				"name": "all",
+				"label": "Education",
+				"Sic": [{
+						"code": "85100",
+						"label": "Pre-primary education"
+					},
+					{
+						"code": "85200",
+						"label": "Primary education"
+					},
+					{
+						"code": "85310",
+						"label": "General secondary education"
+					},
+					{
+						"code": "85320",
+						"label": "Technical/vocational secondary education"
+					},
+					{
+						"code": "85410",
+						"label": "Post-secondary non-tertiary education"
+					},
+					{
+						"code": "85421",
+						"label": "First-degree level higher education"
+					},
+					{
+						"code": "85422",
+						"label": "Post-graduate level higher education"
+					},
+					{
+						"code": "85510",
+						"label": "Sports and recreation education"
+					},
+					{
+						"code": "85520",
+						"label": "Cultural education"
+					},
+					{
+						"code": "85530",
+						"label": "Driving school activities"
+					},
+					{
+						"code": "85590",
+						"label": "Other education n.e.c."
+					},
+					{
+						"code": "85600",
+						"label": "Educational support activities"
+					}
+				]
+			}]
+		},
+		{
+			"code": "Q",
+			"label": "Human health and social work activities",
+			"L2": [{
+					"name": "health",
+					"label": "Human health activities",
+					"Sic": [{
+							"code": "86101",
+							"label": "Hospital activities"
+						},
+						{
+							"code": "86102",
+							"label": "Medical nursing home activities"
+						},
+						{
+							"code": "86210",
+							"label": "General medical practice activities"
+						},
+						{
+							"code": "86220",
+							"label": "Specialist medical practice activities"
+						},
+						{
+							"code": "86230",
+							"label": "Dental practice activities"
+						},
+						{
+							"code": "86900",
+							"label": "Other human health activities"
+						}
+					]
+				},
+				{
+					"name": "care",
+					"label": "Residential care activities",
+					"Sic": [{
+							"code": "87100",
+							"label": "Residential nursing care activities"
+						},
+						{
+							"code": "87200",
+							"label": "Residential care for mental health etc"
+						},
+						{
+							"code": "87300",
+							"label": "Residential care for elderly/disabled"
+						},
+						{
+							"code": "87900",
+							"label": "Other residential care activities"
+						}
+					]
+				},
+				{
+					"name": "social",
+					"label": "Social work activities without accommodation",
+					"Sic": [{
+							"code": "88100",
+							"label": "Social work(no accommodation for infirm)"
+						},
+						{
+							"code": "88910",
+							"label": "Child day-care activities"
+						},
+						{
+							"code": "88990",
+							"label": "Other social work activity without board"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "R",
+			"label": "Arts, entertainment and recreation",
+			"L2": [{
+					"name": "arts",
+					"label": "Creative, arts and entertainment activities",
+					"Sic": [{
+							"code": "90010",
+							"label": "Performing arts"
+						},
+						{
+							"code": "90020",
+							"label": "Support activities to performing arts"
+						},
+						{
+							"code": "90030",
+							"label": "Artistic creation"
+						},
+						{
+							"code": "90040",
+							"label": "Operation of arts facilities"
+						}
+					]
+				},
+				{
+					"name": "archives",
+					"label": "Libraries, archives, museums and other cultural activities",
+					"Sic": [{
+							"code": "91011",
+							"label": "Library activities"
+						},
+						{
+							"code": "91012",
+							"label": "Archive activities"
+						},
+						{
+							"code": "91020",
+							"label": "Museum activities"
+						},
+						{
+							"code": "91030",
+							"label": "Operation historical sites/buildings etc"
+						},
+						{
+							"code": "91040",
+							"label": "Botanical/zoological gardens activity"
+						}
+					]
+				},
+				{
+					"name": "gambling",
+					"label": "Gambling and betting activities",
+					"Sic": [{
+						"code": "92000",
+						"label": "Gambling and betting activities"
+					}]
+				},
+				{
+					"name": "sports",
+					"label": "Sports activities and amusement and recreation activities",
+					"Sic": [{
+							"code": "93110",
+							"label": "Operation of sports facilities"
+						},
+						{
+							"code": "93120",
+							"label": "Activities of sport clubs"
+						},
+						{
+							"code": "93130",
+							"label": "Fitness facilities"
+						},
+						{
+							"code": "93191",
+							"label": "Activities of racehorse owners"
+						},
+						{
+							"code": "93199",
+							"label": "Other sport activity(no racehorse owner)"
+						},
+						{
+							"code": "93210",
+							"label": "Activity of amusement and theme parks"
+						},
+						{
+							"code": "93290",
+							"label": "Other amusement and recreation activity"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "S",
+			"label": "Other service activities",
+			"L2": [{
+					"name": "membership",
+					"label": "Activities of membership organisations",
+					"Sic": [{
+							"code": "94110",
+							"label": "Activity of busines/employer member orgs"
+						},
+						{
+							"code": "94120",
+							"label": "Activity of professional membership orgs"
+						},
+						{
+							"code": "94200",
+							"label": "Activities of trade unions"
+						},
+						{
+							"code": "94910",
+							"label": "Activities of religious organisations"
+						},
+						{
+							"code": "94920",
+							"label": "Activities of political organisations"
+						},
+						{
+							"code": "94990",
+							"label": "Activity of other membership orgs n.e.c."
+						}
+					]
+				},
+				{
+					"name": "repair",
+					"label": "Repair of computers and personal and household goods",
+					"Sic": [{
+							"code": "95110",
+							"label": "Repair of computer or peripheral items"
+						},
+						{
+							"code": "95120",
+							"label": "Repair of communication equipment"
+						},
+						{
+							"code": "95210",
+							"label": "Repair of consumer electronics"
+						},
+						{
+							"code": "95220",
+							"label": "Repairs home appliance/garden equipment"
+						},
+						{
+							"code": "95230",
+							"label": "Repair of footwear and leather goods"
+						},
+						{
+							"code": "95240",
+							"label": "Repair of furniture and home furnishings"
+						},
+						{
+							"code": "95250",
+							"label": "Repair of watches, clocks and jewellery"
+						},
+						{
+							"code": "95290",
+							"label": "Repair of other household goods"
+						}
+					]
+				},
+				{
+					"name": "other",
+					"label": "Other personal service activities",
+					"Sic": [{
+							"code": "96010",
+							"label": "Washing/dry-cleaning of textile and furs"
+						},
+						{
+							"code": "96020",
+							"label": "Hairdressing and other beauty treatment"
+						},
+						{
+							"code": "96030",
+							"label": "Funeral and related activities"
+						},
+						{
+							"code": "96040",
+							"label": "Physical well-being activities"
+						},
+						{
+							"code": "96090",
+							"label": "Other personal service activities n.e.c."
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "T",
+			"label": "Activities as households as employers undifferentiated goods and services producing activites of households for own use",
+			"L2": [{
+					"name": "employer",
+					"label": "Activities of households as employers of domestic personnel",
+					"Sic": [{
+						"code": "97000",
+						"label": "Households employing domestic helpers"
+					}]
+				},
+				{
+					"name": "private",
+					"label": "Undifferentiated goods- and services-producing activities of private households for own use",
+					"Sic": [{
+							"code": "98100",
+							"label": "Private h'holds producing goods(own use)"
+						},
+						{
+							"code": "98200",
+							"label": "Private h'holds making services(own use)"
+						}
+					]
+				}
+			]
+		},
+		{
+			"code": "U",
+			"label": "Activities of extraterritorial organisations and bodies",
+			"L2": [{
+				"name": "all",
+				"label": "Activities of extraterritorial organisations and bodies",
+				"Sic": [{
+					"code": "99000",
+					"label": "Extraterritorial organisations or bodies"
+				}]
+			}]
+		}
+	]
+}
